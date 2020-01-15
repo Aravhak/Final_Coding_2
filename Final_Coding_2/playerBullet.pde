@@ -33,7 +33,11 @@ class playerBullet extends bullet
     ellipse(bulletPos.x, bulletPos.y, bulletW, bulletW);
     fill(0);
     bulletPos.add(dir);
+    
+    
   }
+  
+  
   
   
   
